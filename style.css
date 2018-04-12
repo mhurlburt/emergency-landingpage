@@ -1,7 +1,7 @@
 body {background: #ffffff; margin: 0; padding: 0;} 
 a {color: rgb(255, 255, 255);}           
 #container {width: 1200px; margin: 0; padding: 0; background: #dddddd;}           
-#header {width: 1200px; height: 90px; 	margin: 0; padding: 0; border: 0; background: #cc0000;}          
+#header {width: 1200px; height: 90px; 	margin: 0; padding: 0; border: 0; background: #E0383D;}          
 #sidebar {width: 200px; height: 500px; 	margin: 0; padding: 0; border: 0; float: left; background: #ffffff;}           
 #content {width: 1000px; height: 500px; 	margin: 0; padding: 0; border: 0; float: left; background: #ececec;}           
 #footer {width: 1200px; 	height: 25px; 	margin: 0; padding: 0; border: 0; float: left; background: #414141; clear:both;}                            
