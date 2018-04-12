@@ -1,12 +1,13 @@
-body {background: #ffffff; margin: 0; padding: 0;} 
-a {color: rgb(255, 255, 255);}           
-#container {width: 1200px; margin: 0; padding: 0; background: #dddddd;}           
-#header {width: 1200px; height: 90px; 	margin: 0; padding: 0; border: 0; background: #E0383D;}          
-#sidebar {width: 200px; height: 500px; 	margin: 0; padding: 0; border: 0; float: left; background: #ffffff;}           
-#content {width: 1000px; height: 500px; 	margin: 0; padding: 0; border: 0; float: left; background: #ececec;}           
-#footer {width: 1200px; 	height: 25px; 	margin: 0; padding: 0; border: 0; float: left; background: #414141; clear:both;}                            
-#content {width: 1000px; height: 500px; 	margin: 0; padding: 0; border: 0; float: left; background: #ececec;}    
-#content p {font-family: Arial; font-size: 14px}       
-#sidebar {font-family: Arial; font-size: 18px}   
-#footer {font-family: Arial; font-size: 18px; color: #dddddd}  
-h1 {font-family: Arial; font-size: 24px; font-weight: normal; color:white}
+body {background: #ffffff; margin: 0; padding: 0;}
+a {color: rgb(255, 255, 255);}
+#container {width: 1200px; margin-left: auto; margin-right: auto; padding: 0; background: #dddddd;}
+#logo-container {width: 1200px; margin-left: auto; margin-right: auto; margin-top: 20px; padding: 0; background: #ffffff;}
+#header {width: 1200px; height: 90px; margin: 0; padding-bottom: 20px; border: 0; background: #E0383D;}
+#sidebar {width: 200px; margin: 0; padding: 0; border: 0; float: left; background: #ffffff;}
+#content {width: 1000px; margin: 0; padding-bottom: 20px; border: 0; float: left; background: #ececec;}
+#footer {width: 1200px; height: 25px; margin: 0; padding: 0; border: 0; float: left; background: #414141; clear:both;}
+#content p {font-family: Arial; font-size: 14px; padding: 10px;}
+#sidebar {font-family: Arial; font-size: 18px}
+#footer {font-family: Arial; font-size: 18px; color: #dddddd}
+#group-photo img {display: block; margin: auto}
+h1 {font-family: Arial; font-size: 24px; font-weight: normal; color:white; padding: 10px;}
